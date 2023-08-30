@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T02:40:51.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RPZ1otuTupMKBbx95g7w" version="21.6.8" type="device">
+  <diagram name="Page-1" id="EihlhwR4mBjlE1CQUB-1">
+    <mxGraphModel dx="370" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-1" target="VqZ2pqJgcGKUhWemKnE1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-2" target="VqZ2pqJgcGKUhWemKnE1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-2" value="OUTPUT&lt;br&gt;&quot;Masukkan nama: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="130" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-3" target="VqZ2pqJgcGKUhWemKnE1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-3" value="INPUT&lt;br&gt;nama" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="190" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-6" target="VqZ2pqJgcGKUhWemKnE1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-6" value="OUTPUT&lt;br&gt;&quot;Masukkan tahun lahir: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="250" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-7" target="VqZ2pqJgcGKUhWemKnE1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-7" value="INPUT&lt;br&gt;tahun" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="310" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-10" target="VqZ2pqJgcGKUhWemKnE1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-14" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VqZ2pqJgcGKUhWemKnE1-13">
+          <mxGeometry x="-0.6707" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-10" target="VqZ2pqJgcGKUhWemKnE1-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-16" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VqZ2pqJgcGKUhWemKnE1-15">
+          <mxGeometry x="-0.5237" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-10" value="if&lt;br&gt;tahun &amp;gt; 1964&lt;br&gt;and&lt;br&gt;tahun &amp;lt; 1977&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="380" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-12" value="OUTPUT&lt;br&gt;nama,&lt;br&gt;&quot;lahir pada tahun&quot;,&lt;br&gt;tahun,&lt;br&gt;&quot;tergolong generasi X&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="385" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-19" target="VqZ2pqJgcGKUhWemKnE1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-22" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VqZ2pqJgcGKUhWemKnE1-21">
+          <mxGeometry x="-0.5459" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-19" target="VqZ2pqJgcGKUhWemKnE1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-28" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VqZ2pqJgcGKUhWemKnE1-27">
+          <mxGeometry x="-0.6516" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-19" value="elif&lt;br&gt;tahun &amp;gt; 1976&lt;br&gt;and&lt;br&gt;tahun &amp;lt; 1995&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="510" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-20" value="OUTPUT&lt;br&gt;nama,&lt;br&gt;&quot;lahir pada tahun&quot;,&lt;br&gt;tahun,&lt;br&gt;&quot;tergolong generasi Millenial&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="515" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqZ2pqJgcGKUhWemKnE1-25" target="VqZ2pqJgcGKUhWemKnE1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-24" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VqZ2pqJgcGKUhWemKnE1-23">
+          <mxGeometry x="-0.5459" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-25" value="elif&lt;br&gt;tahun &amp;gt; 1994&lt;br&gt;and&lt;br&gt;tahun &amp;lt; 2011&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="640" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VqZ2pqJgcGKUhWemKnE1-26" value="OUTPUT&lt;br&gt;nama,&lt;br&gt;&quot;lahir pada tahun&quot;,&lt;br&gt;tahun,&lt;br&gt;&quot;tergolong generasi Z&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="645" width="200" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
